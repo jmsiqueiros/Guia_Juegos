@@ -1,2 +1,3 @@
 # Guia_Juegos
-Repositorio para la guía de gamificación. Incluye código Netlogo de simulación y pdf Guía. 
+El repositorio contiene una Guía práctica de modelación participativa: Juegos, mapeo de sistemas y modelación basada en agentes. Contiene también el modelo que funciona como una simulación y como un juego. Finalmente, también se incluye el artículo que muestra los resultados que fueron tomados como ejemplo para la Guía y para el modelo. 
+La Guía y el modelo, y parcialmente el artículo son resultado del trabajo durante el año sabático de Jesús Mario Siqueiros, en el TISSS-Lab de la Universidad de Mainz en Alemania y con el apoyo de la beca de PASPA-UNAM para realizar dicha estancia. Asimismo, agradecemos el apoyo de Fernanda Pérez Lombardini y al proyecto PAPIIT-IG20162.
